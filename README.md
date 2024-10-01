@@ -26,6 +26,9 @@ Gemma API를 활용한 자소서 교정 서비스
 ---
 
 ## 개발 구성
+### 아키텍처
+![모델 아키텍처](https://github.com/user-attachments/assets/1356c9f7-acce-4cfa-9061-7f07b8b5177c)
+
 
 ### 1. Gemma-2bit 모델 불러오기
 먼저, 사전 훈련된 **Gemma-2bit** 모델을 불러옵니다. 이 모델은 자소서 생성에 필요한 자연어 처리 기능을 제공합니다.
