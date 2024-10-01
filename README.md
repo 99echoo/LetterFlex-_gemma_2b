@@ -3,7 +3,7 @@ Personal statement proofreading service utilizing Gemma_2b.
 
 ![Header Image](https://github.com/user-attachments/assets/7b00ea66-5ce3-4c0a-9dba-5bb3ffbf181c)
 
-Gemma API를 활용한 자소서 교정 서비스
+**Gemma API를 활용한 자소서 교정 서비스**
 
 ## 프로젝트 주제
 생성형 AI 프레임워크를 활용하여 자소서를 주제에 맞게 변환해주는 서비스 기획
@@ -20,8 +20,6 @@ Gemma API를 활용한 자소서 교정 서비스
   ![RAG 방법론](https://github.com/user-attachments/assets/14844b8e-3a24-44a1-91bb-1e60c72548a8)
   
   [RAG 방법론 설명](https://proceedings.neurips.cc/paper_files/paper/2020/file/6b493230205f780e1bc26945df7481e5-Paper.pdf)
-
-  최신 정보를 빠르게 업데이트하기 위해서는 모델을 추가적으로 학습시키는 것(fine-tuning)이 아니라, 모델에게 정해진 데이터를 검색할 수 있도록 하는 Retrieval-Augmented Generation(RAG)를 사용하는 것이 바람직할 수 있습니다.
 
 ---
 
